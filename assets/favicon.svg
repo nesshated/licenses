@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset=".08" stop-color="#ffffff"/>
+      <stop offset=".5" stop-color="#d6d6d6"/>
+      <stop offset="1" stop-color="#9a9a9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="#020202"/>
+  <path transform="translate(32 32) scale(2.3) translate(-12 -12)" fill="url(#chrome)" stroke="url(#chrome)" stroke-width=".5" stroke-linejoin="round" d="M10.6 7.6 10 3.2 12 1l2 2.2-.6 4.4 6-.6 2.2 2-2.2 2-6-.6.8 10.2L12 23l-2.2-2.4.8-10.2-6 .6-2.2-2 2.2-2Z"/>
+</svg>
